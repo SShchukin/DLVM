@@ -1,0 +1,4 @@
+1. VMWare Player нужен для запуска DLVM!
+2. Скачивание VMWare Player
+3. Установка VMWare Player (Install, у меня уже есть VMWARE Player)
+4. Первый запуск DLVM

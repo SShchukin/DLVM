@@ -1,0 +1,3 @@
+1. Скачивание Intelij IDEA
+2. Установка Intelij IDEA
+3. Запуск Intelij IDEA

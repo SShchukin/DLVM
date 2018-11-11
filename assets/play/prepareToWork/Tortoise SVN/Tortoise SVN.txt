@@ -1,0 +1,2 @@
+1. Скачивание Tortoise SVN
+2. Установка Tortoise SVN

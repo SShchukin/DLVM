@@ -1,0 +1,1 @@
+function scrollFunction(){700<document.body.scrollTop||700<document.documentElement.scrollTop?document.getElementById("scrollup").style.display="block":document.getElementById("scrollup").style.display="none"}function topFunction(){document.body.scrollTop=0,document.documentElement.scrollTop=0}window.onscroll=function(){scrollFunction()};

@@ -88,11 +88,7 @@ header {
   background-size: cover; }
   .video video, .videoFlip video {
     border-top: 3px dashed #fff;
-    border-bottom: 3px dashed #fff;
-    transition: transform 0.2s; }
-  .video video:hover, .videoFlip video:hover {
-    transform: scale(1.1);
-    transition: transform 0.2s; }
+    border-bottom: 3px dashed #fff; }
   .video .videoHeader, .video .fBHeader, .videoFlip .videoHeader, .videoFlip .fBHeader {
     color: #fff;
     border-top: 4px solid #e2310f;

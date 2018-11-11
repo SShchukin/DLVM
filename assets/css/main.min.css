@@ -137,7 +137,8 @@ footer {
   background: #0f1a30;
   color: #fff; }
   footer p {
-    margin: 0; }
+    margin: 0;
+    padding: 0 200px; }
   footer a {
     color: #e2310f;
     text-decoration: underline; }

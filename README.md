@@ -1,2 +1,2 @@
 # DLVM
-Course wrok
+Course work

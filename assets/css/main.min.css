@@ -86,7 +86,7 @@ header {
 
 .video, .videoFlip {
   background-size: cover; }
-  .video video, .videoFlip video {
+  .video video, .video iframe, .videoFlip video, .videoFlip iframe {
     border-top: 3px dashed #fff;
     border-bottom: 3px dashed #fff; }
   .video .videoHeader, .video .fBHeader, .videoFlip .videoHeader, .videoFlip .fBHeader {
